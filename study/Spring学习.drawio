@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T03:47:34.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QCsB1tPA1gA9vLewnsE1" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-04T03:53:20.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="HX0He3SOZGOI-f8UaKaD" version="15.9.1" type="github">
   <diagram id="bVKBuHjyLu6Nhd4JCsNb" name="Page-1">
     <mxGraphModel dx="1052" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,6 +61,30 @@
         </mxCell>
         <mxCell id="kVP1armv6cL0o3EUo8lq-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;context.getBean(Person.class)&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="590" y="390" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6qEHQewcnSZ_MV3cc5DO-1" value="BeanFactory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="540" width="108" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6qEHQewcnSZ_MV3cc5DO-2" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="332" y="586" as="sourcePoint" />
+            <mxPoint x="492" y="586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6qEHQewcnSZ_MV3cc5DO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="217" y="699" width="108" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6qEHQewcnSZ_MV3cc5DO-4" value="BeanFactory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="293" y="560" width="108" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6qEHQewcnSZ_MV3cc5DO-5" value="BeanFactory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="293" y="560" width="108" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6qEHQewcnSZ_MV3cc5DO-6" value="BeanFactory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="293" y="560" width="108" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6qEHQewcnSZ_MV3cc5DO-7" value="BeanFactory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="293" y="560" width="108" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
